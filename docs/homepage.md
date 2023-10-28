@@ -1,5 +1,5 @@
 layout: page
-title: "Home"
-permalink: /home
+title: "Test"
+permalink: /Test
 
-This is a homepage?
+This is a new page?
