@@ -21,7 +21,7 @@
 title: A. Tsai
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my site!
+  <a href="https://jekyll.github.io/minima/">Made with the Minima Theme</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
