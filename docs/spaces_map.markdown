@@ -1,7 +1,7 @@
 ---
 layout: page
 title: spaces test
-permalink: /DataViz/
+permalink: /spacestest/
 ---
 
 <html>
