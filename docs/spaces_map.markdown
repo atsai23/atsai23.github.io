@@ -1,10 +1,9 @@
 ---
 layout: page
-title: spaces test
-permalink: /spacestest/
+title: Cultural Spaces
+permalink: /seattleculturalspaces/
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
   <style>
@@ -44,4 +43,9 @@ permalink: /spacestest/
 
   </script>
 </body>
+
+<br>
+   For this visualization I used a dataset from the City of Seattle to plot cultural spaces in Seattle. I filtered out spaces that were not active, then plotted them on a map of Seattle's neighborhoods. Because there were so many spaces I chose to make it a clorophleth map so you can see which neighborhoods have the most cultural spaces. Interestingly, along with downtown, South Seattle seems to have a lot of cultural spaces. Because the neighborhoods were free text in both data sources, some neighborhoods are missing data.
+
+
 </html>
