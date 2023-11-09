@@ -4,6 +4,7 @@ title: spaces test
 permalink: /spacestest/
 ---
 
+<!DOCTYPE html>
 <html>
 <head>
     
