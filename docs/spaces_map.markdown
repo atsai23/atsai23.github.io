@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+---
+layout: page
+title: Data Visualizations
+permalink: /DataViz/
+---
+
 <html>
 <head>
     
