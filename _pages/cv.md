@@ -17,29 +17,28 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Service Desk Technican, Seattle University, November 2023 - Present
+  * Use Microsoft 365 Admin Center tools inclduing Identity and Exchange to manage Microsoft 365 applications and licensing
+  * Write and use PowerShell scripts to manage user permissions and distribution lists
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Data Analyst (Student Assistant)
+  * Analyze usage metrics for SQL Server Reporting Service and Power BI reporting platforms to assist with migration projects
+  * Write SQL queries to aggregate on premise and cloud data (AWS) for using in Power BI reports
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* AWS
+* Database Applications
+  * DB Visualizer
+  * MySQL
+* Data Analysis
+* Data Visualization
+  * Power BI
+  * Tableau
+* Microsoft 365
+* PowerShell
+* Python
 
 <!-- Publications
 ======
